@@ -1,5 +1,5 @@
 <p align="center" letter-spacing="1.3px" line-height="25px">
-<img src=" " width="418" height="418" display="flex" align-items="center"/>
+<img src="assets/CalvinSchmeichelMacOSTerminalBanner.png" display="flex" align-items="center"/>
 
 ### Hi there 👋
 
