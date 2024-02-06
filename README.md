@@ -1,9 +1,8 @@
-<p align="center" letter-spacing="1.3px" line-height="25px">
-<img src="assets/CalvinSchmeichelMacOSTerminalBanner.png" display="flex" align-items="center"/>
+<img src="assets/CalvinSchmeichelMacOSTerminalBanner.png" alt="Image Description" style="border-radius: 10px;">
 
 ### Hi there 👋
 
-<img src="assets/CalvinSchmeichelMacOSTerminalBanner.png" alt="Image Description" style="border-radius: 10px;">
+
 
 
 <!--
