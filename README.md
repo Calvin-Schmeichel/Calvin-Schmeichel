@@ -3,6 +3,9 @@
 
 ### Hi there 👋
 
+<img src="assets/CalvinSchmeichelMacOSTerminalBanner.png" alt="Image Description" style="border-radius: 10px;">
+
+
 <!--
 **Calvin-Schmeichel/Calvin-Schmeichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
